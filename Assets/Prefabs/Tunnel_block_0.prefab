@@ -47,7 +47,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TunnelMouth
   exitMouth: {fileID: 8347534155290168038}
-  exitOffset: 0.2
+  exitMouthCollider: {fileID: 8586761946887580984}
+  bodies:
+  - {fileID: 5318880363057923406}
+  - {fileID: 3891998409307523769}
+  extraExitOffset: 0.17
 --- !u!61 &6948999363450060195
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -259,7 +263,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TunnelMouth
   exitMouth: {fileID: 4546576948685158364}
-  exitOffset: 0.2
+  exitMouthCollider: {fileID: 6948999363450060195}
+  bodies:
+  - {fileID: 5318880363057923406}
+  - {fileID: 3891998409307523769}
+  extraExitOffset: 0.17
 --- !u!61 &8586761946887580984
 BoxCollider2D:
   m_ObjectHideFlags: 0

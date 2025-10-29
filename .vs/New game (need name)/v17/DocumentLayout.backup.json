@@ -3,20 +3,52 @@
   "WorkspaceRootPath": "D:\\Unity\\Projects\\New game (need name)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Bullets\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Bullets\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Levels\\MinimapViewRect2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Levels\\MinimapViewRect2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Levels\\MinimapSetup2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Levels\\MinimapSetup2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Glass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Blocks\\Glass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Camera\\CameraController2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Camera\\CameraController2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Levels\\LevelBound2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Levels\\LevelBound2D.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Levels\\LevelManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Levels\\LevelManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Slime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Blocks\\Slime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\TunnelMouth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Blocks\\TunnelMouth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Tunnel\\TunnelKillWall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Blocks\\Tunnel\\TunnelKillWall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Blocks\\Stone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Tunnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Blocks\\Tunnel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Bullets\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Bullets\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Glass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Blocks\\Glass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Goal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,6 +57,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\IBulletInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Blocks\\IBulletInteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Player\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,37 +70,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IBulletInteractable.cs",
-              "DocumentMoniker": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\IBulletInteractable.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Blocks\\IBulletInteractable.cs",
-              "ToolTip": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\IBulletInteractable.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Blocks\\IBulletInteractable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MinimapViewRect2D.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Levels\\MinimapViewRect2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Levels\\MinimapViewRect2D.cs",
+              "ToolTip": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Levels\\MinimapViewRect2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Levels\\MinimapViewRect2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T12:58:12.732Z",
+              "WhenOpened": "2025-10-27T13:44:42.914Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Glass.cs",
-              "DocumentMoniker": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Glass.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Blocks\\Glass.cs",
-              "ToolTip": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Glass.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Blocks\\Glass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "MinimapSetup2D.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Levels\\MinimapSetup2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Levels\\MinimapSetup2D.cs",
+              "ToolTip": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Levels\\MinimapSetup2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Levels\\MinimapSetup2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T12:55:30.2Z",
+              "WhenOpened": "2025-10-27T13:37:41.555Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "LevelBound2D.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Levels\\LevelBound2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Levels\\LevelBound2D.cs",
+              "ToolTip": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Levels\\LevelBound2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Levels\\LevelBound2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:34:17.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraController2D.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Camera\\CameraController2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera\\CameraController2D.cs",
+              "ToolTip": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Camera\\CameraController2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera\\CameraController2D.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T11:43:58.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TunnelMouth.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\TunnelMouth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Blocks\\TunnelMouth.cs",
+              "ToolTip": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\TunnelMouth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Blocks\\TunnelMouth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T11:40:02.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TunnelKillWall.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Tunnel\\TunnelKillWall.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Blocks\\Tunnel\\TunnelKillWall.cs",
+              "ToolTip": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Tunnel\\TunnelKillWall.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Blocks\\Tunnel\\TunnelKillWall.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T11:26:49.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tunnel.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Tunnel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Blocks\\Tunnel.cs",
+              "ToolTip": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Tunnel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Blocks\\Tunnel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T11:14:25.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Slime.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Slime.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Blocks\\Slime.cs",
+              "ToolTip": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Slime.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Blocks\\Slime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T11:01:10.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Stone.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Stone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Blocks\\Stone.cs",
+              "ToolTip": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Stone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Blocks\\Stone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T10:37:00.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IBulletInteractable.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\IBulletInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Blocks\\IBulletInteractable.cs",
+              "ToolTip": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\IBulletInteractable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Blocks\\IBulletInteractable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:58:12.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Glass.cs",
+              "DocumentMoniker": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Glass.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Blocks\\Glass.cs",
+              "ToolTip": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Glass.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Blocks\\Glass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T12:55:30.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "LevelManager.cs",
               "DocumentMoniker": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Levels\\LevelManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Levels\\LevelManager.cs",
@@ -77,33 +225,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "Goal.cs",
               "DocumentMoniker": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Goal.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Blocks\\Goal.cs",
               "ToolTip": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Blocks\\Goal.cs",
               "RelativeToolTip": "Assets\\Scripts\\Blocks\\Goal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T11:39:21.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T11:39:21.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "Bullet.cs",
               "DocumentMoniker": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Bullets\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Bullets\\Bullet.cs",
               "ToolTip": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Bullets\\Bullet.cs",
               "RelativeToolTip": "Assets\\Scripts\\Bullets\\Bullet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T11:37:55.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T11:37:55.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 14,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "D:\\Unity\\Projects\\New game (need name)\\Assets\\Scripts\\Player\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
@@ -111,8 +257,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAiwCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T11:35:18.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T11:35:18.674Z"
             }
           ]
         }
